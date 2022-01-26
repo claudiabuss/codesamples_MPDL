@@ -1,5 +1,4 @@
-# codesamples_MPDL
-
+# codesamples
 Please, do open the .ipynb file with a jupyter notebook.
 For clarity, it is strongly recommended to use the jupyter extensions i) Collapsible headings; ii) Table of Contents (2)
 
